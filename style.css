@@ -63,3 +63,9 @@ a:hover{
 		width:70%
 	}
 }
+.cf:hover .cf__c{
+	color:#00768E
+}
+.cf:hover .cf__f{
+	color:#FF4019
+}
